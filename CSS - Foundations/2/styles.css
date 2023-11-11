@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd_number {
+    background-color: rgb(255, 0, 60);
+    font-family: verdana, "Dejavu sans", sans-serif;
+}
+
+#second_number {
+    color:hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.thrid_element {
+    font-size: 24px;
+}
+
+#forth_element {
+    background-color: rgb(68, 128, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
